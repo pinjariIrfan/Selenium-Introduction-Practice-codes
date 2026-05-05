@@ -1,7 +1,6 @@
  Selenium Practice Codes
  
-These are practice scripts I wrote while learning automation from scratch —
-expect some trial and error in here.
+These are practice scripts I wrote while learning automation from scratch.
 
 What's inside
 - Basic browser interactions
