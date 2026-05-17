@@ -12,4 +12,4 @@ What's inside
 Stack
 Java · Selenium WebDriver · Eclipse · ChromeDriver / EdgeDriver
 
-Not production code — just learning in public.
+
